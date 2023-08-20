@@ -1,5 +1,27 @@
-### Hi there 👋
+### Hola mi nombre es José Rosas!
+Tambien conocido como Ema0502 en GitHub
 
+¿Quien soy?
+Soy un Full Stack developer, orientado al Back-end
+Desde chico estuve interesado en el IT, hoy tengo mas de 700horas de codeo gracias al bootcamp de soyHenry, mi motivacion mas grande fue mi acercamiento al codigo.
+
+¿Que hago?
+Actualmente me dedico a desarrollar proyectos que me permiten avanzar y potenciar mi formacion como programador. Me facsina poder encontrar la solucion a los problemas de la vida con codigo.
+
+¿A donde me dirijo?
+Mi objetivo principal es seguir capacitandome y puliendo mi codigo.
+No solo disfruto de la programacion por la cantidad de demanda que hay en el mercado. Sino que realmente me apaciona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creiamos ya resueltos.
+
+¿Que tecnologias uso?
+El bootCamp de soyHenry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar! por lo que las principales tecnologias que manejo son:
+Git | JavaScript | TypeScript | Node Js | Express | PostgreSQL | Sequelize | React | Redux | HTML | CSS
+Tambien tengo conocimientos en diseño grafico, utilizando herramientas como Photoshop CC y Adobe Ilustractor para un diseño visual del material
+Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problemas, compartibilidad y optimizacion del sistema.
+
+No dudes en contactarme
+Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+LinkedIn: https://www.linkedin.com/in/jos%C3%A9-emanuel-rosas-31b1a8190/
+E-mail: ema050296@gmail.com
 <!--
 **Ema0502/Ema0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
