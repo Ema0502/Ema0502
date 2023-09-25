@@ -4,7 +4,7 @@ Tambien conocido como Ema0502 en GitHub
 
 **¿Quien soy?**
 ----------------------
-Que tal, Soy José un Desarrollador Full Stack, orientado al Back-end. Desde chico estuve interesado en el mundo IT, estudie y trabaje como técnico en reparación de PC. Hoy tengo mas de 700horas de codeo gracias al bootcamp de soyHenry, mi motivación mas grande fue mi acercamiento al código.
+Que tal soy José, un Desarrollador Full Stack orientado al Back-end. Desde chico estuve interesado en el mundo IT, estudié y trabajé como técnico en reparación de PC. Hoy tengo mas de 700horas de codeo gracias al Bootcamp de soyHenry, mi motivación mas grande fue mi acercamiento al código.
 
 **¿Que hago?**
 ----------------------
