@@ -8,7 +8,7 @@ Que tal soy José, un Desarrollador Full Stack orientado al Back-end. Desde chic
 
 **¿Que hago?**
 ----------------------
-Actualmente me dedico a desarrollar proyectos que me permiten avanzar y potenciar mi formacion como programador. Me facsina poder encontrar la solucion a los problemas de la vida con codigo.
+Actualmente me dedico a desarrollar proyectos que me permiten avanzar y potenciar mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida codeando.
 
 **¿A donde me dirijo?**
 ----------------------
