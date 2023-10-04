@@ -26,7 +26,7 @@ Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problem
 ----------------------
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-emanuel-rosas-31b1a8190/)
+[LinkedIn](https://www.linkedin.com/in/jose-emanuel-rosas/)
 
 E-mail: ema050296@gmail.com
 <!--
