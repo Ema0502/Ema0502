@@ -26,6 +26,8 @@ Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problem
 ----------------------
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
+[Portfolio](https://jr-portfolio-six.vercel.app/)
+
 [LinkedIn](https://www.linkedin.com/in/jose-emanuel-rosas/)
 
 E-mail: ema050296@gmail.com
