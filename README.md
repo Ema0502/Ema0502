@@ -26,11 +26,11 @@ Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problem
 ----------------------
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-[Portfolio](https://jr-portfolio-six.vercel.app/)
+[Portfolio](https://new-portfolio-mauve-nine.vercel.app/)
 
 [LinkedIn](https://www.linkedin.com/in/jose-emanuel-rosas/)
 
-E-mail: ema050296@gmail.com
+ema050296@gmail.com
 <!--
 **Ema0502/Ema0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
