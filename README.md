@@ -17,8 +17,9 @@ No solo disfruto de la programacion por la cantidad de demanda que hay en el mer
 
 **¿Que tecnologias uso?**
 ----------------------
-El bootCamp de soyHenry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar! por lo que las principales tecnologias que manejo son:
-Git | JavaScript | TypeScript | Node Js | Express | PostgreSQL | Sequelize | React | Redux | HTML | CSS
+Las tecnologias que manejo son:
+JavaScript | TypeScript | C# | .NET | ASP.NET Core | Git | NodeJs | Express | PostgreSQL | SQL Server |  Jest Js | React | Redux | HTML | CSS | WebPack | Jquery | Ajax | Docker
+JSON | XML | XAML | Visual Studio Community | Visual Studio Code
 Tambien tengo conocimientos en diseño grafico, utilizando herramientas como Photoshop CC y Adobe Ilustractor para un diseño visual del material
 Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problemas, compartibilidad y optimizacion del sistema.
 
