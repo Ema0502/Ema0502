@@ -20,6 +20,7 @@ No solo disfruto de la programacion por la cantidad de demanda que hay en el mer
 Las tecnologias que manejo son:
 JavaScript | TypeScript | C# | .NET | ASP.NET Core | Git | NodeJs | Express | PostgreSQL | SQL Server |  Jest Js | React | Redux | HTML | CSS | WebPack | Jquery | Ajax | Docker
 JSON | XML | XAML | Visual Studio Community | Visual Studio Code
+
 Tambien tengo conocimientos en diseño grafico, utilizando herramientas como Photoshop CC y Adobe Ilustractor para un diseño visual del material
 Por ultimo tengo experiencia como tecnico de computadoras, resolucion de problemas, compartibilidad y optimizacion del sistema.
 
